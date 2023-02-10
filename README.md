@@ -3,8 +3,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently learning Web Development at Humber College
 - 🌱 I’m learning Javascript, HTML, CSS, C# in my class.
 - 👯 I’m looking to collaborate on web application projects. ..
