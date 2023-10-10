@@ -8,4 +8,5 @@
 - 👯 I’m looking to collaborate on web application projects
 - 📫 You can reach me via email at mangal.pranay@gmail.com
 - 😄 Pronouns: He/him
--->
+- Myers-Briggs Personality Type : ENFJ-A
+  
