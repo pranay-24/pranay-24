@@ -9,4 +9,6 @@
 - 📫 You can reach me via email at mangal.pranay@gmail.com
 - 😄 Pronouns: He/him
 - Myers-Briggs Personality Type : ENFJ-A
-  
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
