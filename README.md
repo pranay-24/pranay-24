@@ -10,11 +10,14 @@
 - 😄 Pronouns: He/him
 - Myers-Briggs Personality Type : ENFJ-A
 
-## Languages
+## My Skills
+
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=js,ts,csharp,php)](https://skillicons.dev)
 
 ### Front End
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,jquery,github)](https://skillicons.dev)
 
 ### Back End
 
