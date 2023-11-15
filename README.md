@@ -20,4 +20,4 @@
 
 ### Back End
 
-[![My Skills](https://skillicons.dev/icons?i=node,express,mongodb,dotnet,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,dotnet,laravel)](https://skillicons.dev)
