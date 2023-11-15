@@ -16,8 +16,8 @@
 
 ### Front End
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,jquery,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,jquery,github)](https://skillicons.dev)
 
 ### Back End
 
-[![My Skills](https://skillicons.dev/icons?i=js,express,mongodb,dotnet,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=node,express,mongodb,dotnet,laravel)](https://skillicons.dev)
