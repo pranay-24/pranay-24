@@ -3,7 +3,7 @@
 
   I'm a full stack web developer
 - My portfolio website - https://pranay704.netlify.app/
-- 🔭 I am pursuing post-grad in Web Development at Humber College
+- 🔭 I am pursuing post-grad in Cloud Computing at Humber College
 - 👯 I’m looking to collaborate on web application projects
 - 📫 You can reach me via email at pranay@theinterconnections.com
 - 😄 Pronouns: He/him
