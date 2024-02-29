@@ -12,7 +12,7 @@
 ## My Skills
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,cs,php)](https://skillicons.dev)
 
 ### Front End
 
