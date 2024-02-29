@@ -23,4 +23,4 @@
 [![My Skills](https://skillicons.dev/icons?i=django,nodejs,express,mongodb,graphql,dotnet,laravel)](https://skillicons.dev)
 
 ### Other
-[![My Skills](https://skillicons.dev/icons?i=aws,k8s)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,k8s,docker)](https://skillicons.dev)
