@@ -1,9 +1,9 @@
 # Pranay Mangal
 ## Hi there 👋
 
-  I'm a full stack web developer
+- I'm a full stack web developer
 - My portfolio website - https://pranay704.netlify.app/
-- 🔭 I am pursuing post-grad in Cloud Computing at Humber College
+- 🔭 I pursued post-grad in Web Development and Cloud Computing at Humber College, Toronto
 - 👯 I’m looking to collaborate on web application projects
 - 📫 You can reach me via email at pranay@theinterconnections.com
 - 😄 Pronouns: He/him
